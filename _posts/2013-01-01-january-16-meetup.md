@@ -12,10 +12,16 @@ lng: -122.6775
 minZoom: 12
 ---
 
-MaptimePDX is ready to begin! [Matt](https://twitter.com/mattsayler) and I are gearing up for a great year and thanks to [Lyzi Diamond](https://twitter.com/lyzidiamond), we've got a good start. 
+**What**: MaptimePDX, a meetup for hacking on map stuff.
 
-[First maptime](http://calagator.org/events/1250465042) of the year will be at the familiar digs over at [Esri R&D Center (aka Geoloqi HQ)](http://calagator.org/venues/202393267).
+**Where**: Esri R&D Center
 
-The agenda is up to you but there are a couple of fun tasks that some of you can help out with if you're up for learning some new things. Right off the bat, we'll need help setting up this Jekyll site: you'll learn [Jekyll](http://jekyllrb.com/) a static page generator, Github pages, and how to contribute to the maptimepdx website.
+**When**: Thursday, January 16, 2014 from 6–8:30pm
 
-Some bevvies provided but definitely bring your ideas and an appetite to learn and contribute. See you then!
+MaptimePDX is ready to begin! [Matt](https://twitter.com/mattsayler) and I are gearing up for another great year for MaptimePDX and thanks to [Lyzi Diamond](https://twitter.com/lyzidiamond), we've got a good start. 
+
+[First maptime](http://calagator.org/events/1250465361) of the year will be at the familiar digs over at [Esri R&D Center (aka Geoloqi HQ)](http://calagator.org/venues/202393267) like last time.
+
+The agenda is up to you but there are a couple of fun tasks that some of you can help out with if you're up for learning some new things. I'd like to throw out two things I'd like to share and potentially hack on: [this Jekyll site](https://github.com/geografa/maptimepdx/tree/gh-pages) and the [OSM Bright Quickstart](https://www.mapbox.com/tilemill/docs/guides/osm-bright-mac-quickstart/).
+
+So bring your ideas and an appetite to learn and contribute. Some bevvies and snacks provided. See you then!
