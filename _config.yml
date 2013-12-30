@@ -18,4 +18,4 @@ relative_permalinks: true
 
 permalink:     /:month-:day-:year/:title.html
 
-baseurl:     ./
+baseurl:     /
