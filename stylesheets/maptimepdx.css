@@ -1,0 +1,168 @@
+body {
+  font: 16px/1.5 helvetica-neue, helvetica, arial, san-serif, verdana;
+  background: #F2EEE5;
+  color: #333;
+  padding: 0;
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #fb5022;
+  /*text-decoration: none;*/
+} 
+a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+#main {
+  width: 600px;
+  margin: 0 auto;
+}
+header {
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+}
+h1 {
+  margin: 0;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 6em;
+  height: 120px;
+}
+h2 {
+  margin-top: 0;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 3em;
+}
+h3 {
+  margin-top: 10px;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 2em;
+}
+a {
+  color: #661605;
+  text-decoration: none;
+}
+a:hover {
+  color: #333;
+  text-decoration: none;
+}
+a:visited {
+  color: #440f03;
+  text-decoration: none;
+}
+nav ul, ul.entries {
+  list-style-type: none;
+}
+nav li a {
+  float: left;
+  margin: 10px;
+}
+.content {
+  position: absolute;
+  top: 130px;
+  width: 520px;
+  height: 520px;
+  padding: 20px;
+  background: #fff;
+  opacity: .8;
+  margin: 10px;
+}
+.blog_content, h3 {
+  margin-bottom: -10px;
+  margin-top: 40px;
+}
+
+ul.entries li {
+  position: relative;
+  margin: 20px auto;
+  padding: 20px;
+  background: #F7F7F7;
+  width: 600px;
+}
+a, ul.entries img {
+  width: 960px;
+  opacity: 0.8;
+}
+a:hover,ul.entries img {
+  opacity: 1;
+}
+ul.entries li h2 {
+  text-align: center;
+  margin-bottom: 0;
+}
+ul.entries li h3 {
+  position: absolute;
+  bottom: 550px;
+  /*left: 21px;*/
+  background: #F7F7F7;
+  padding-right: 18px;
+  /*font-size: 4em;*/
+  margin-bottom: 0;
+}
+ul.entries a {
+  color: rgba(0, 0, 0, 0.4);
+}
+ul.entries a:hover {
+  color: #333;
+}
+footer {
+  font-size: 0.65em;
+  text-align: right;
+}
+footer a  {
+  color: #000;
+}
+footer a:visited{
+  color: #440f03;
+}
+/*.subtitle {
+  margin-top: 10px;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 3em;
+}*/
+.author {
+  margin-top: 50px;
+}
+.author a {
+  color: #333;
+}
+img {
+  max-width: 100%;
+}
+
+#map {
+  height: 400px;
+}
+.snap {
+  position: relative;
+  margin-right: 10px;
+  width: 240px;
+  margin-bottom: 0;
+}
+.polaroid {
+  padding: 10px 10px 12px 10px;
+  background: #F7F7F7;
+  box-shadow: 0px 2px 4px #ddd;
+  margin-bottom: 20px;
+}
+.ue-div-icon {
+  width: 40px;
+  height: 40px;
+  background: url('../img/kitteh.png');
+}
+.icons {
+  text-align: center;
+}
+.marker {
+  display: block;
+  position: relative;
+  width: 1em;
+  height: 1em;
+  background: #157efb;
+  border-radius: 50%;
+  box-shadow: 0 0 0 0.15em white, 0 0 3px rgba(0, 0, 0, 0.4);
+}

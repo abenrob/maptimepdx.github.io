@@ -1,0 +1,5 @@
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+permalink:   /pdx/:month-:day-:year/:title.html
