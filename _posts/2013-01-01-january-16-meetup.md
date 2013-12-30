@@ -4,7 +4,7 @@ title: january maptime!
 date: Dec 29, 2013
 twitter: geografa
 realname: rafa
-pinterest: http://media-cache-ec0.pinimg.com/736x/ab/57/c8/ab57c86cd9fec7372fb3a5f2938290ec.jpg
+image: http://distilleryimage2.ak.instagram.com/4f3ae99e717e11e39ea71230a3416982_8.jpg
 map: grafa.gm7oh1b2
 zoomLevel: 13
 lat: 45.5169

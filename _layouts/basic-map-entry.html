@@ -2,7 +2,7 @@
 layout: default-maps
 ---
 <div class="polaroid">
-  <img src="{{ page.pinterest }}" />
+  <img src="{{ page.image }}" />
 </div>
 <div>
   <span><h2 class="subtitle">{{page.title}}</h2>{{ content }}<p class="author">- <a href="http://twitter.com/{{ page.twitter}}">{{page.realname}}</a></p></span>
@@ -14,7 +14,16 @@ var map = L.mapbox.map('map','{{ page.map }}', {
 })
     .setView([{{ page.lat }}, {{ page.lng }}], {{ page.zoomLevel }});
 
-var marker = L.marker([{{page.lat}}, {{page.lng}}]).addTo(map);
-marker.bindPopup("<b><a href='http://calagator.org/venues/202393267'>Esri R&D Center</a></b><br>aka Geoloqi HQ").openPopup();
+var mapIcon = L.icon({
+    iconUrl: '/images/mapIcon.png',
+    // iconSize:     [38, 95], // size of the icon
+    // shadowSize:   [50, 64], // size of the shadow
+    iconAnchor:   [26, 0] // point of the icon which will correspond to marker's location
+    // shadowAnchor: [4, 62],  // the same for the shadow
+    // popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
+
+var marker = L.marker([{{page.lat}}, {{page.lng}}], {icon: mapIcon}).addTo(map);
+marker.bindPopup("<b><a href='http://map.project-osrm.org/?hl=en&loc=45.516522,-122.676483&loc=45.531063,-122.669027&z=14&center=45.524330,-122.689648&alt=0&df=0&re=0&ly=588398340'>Esri R&D Center</a></b><br>aka Geoloqi HQ").openPopup();
 
 </script>
