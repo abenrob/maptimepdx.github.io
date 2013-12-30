@@ -2,5 +2,25 @@ source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
-permalink:   /:month-:day-:year/:title.html
+include:     ['.htaccess']
+exclude:     []
+keep_files:  ['.git','.svn']
+gems:        []
+timezone:    nil
+encoding:    nil
 
+future:      true
+show_drafts: nil
+limit_posts: 0
+pygments:    true
+
+relative_permalinks: true
+
+permalink:     date
+paginate_path: 'page:num'
+
+excerpt_separator: "\n\n"
+
+port:        4000
+baseurl:     /
+url:         http://localhost:4000
