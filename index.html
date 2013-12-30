@@ -1,14 +1,14 @@
 ---
 layout: default-pdx
-title: Maps
+title: #maptimepdx
 ---
-<h2>let's talk about maps, baby.</h2>
+<p><a href="http://maptime.github.io">maptimeSF</a> | <a href="/contact">contact</a></p>
 <ul class="entries">
   {% for post in site.posts %} 
   <li>
+  	<h2>{{ post.title }}</h2>
     <a href="{{ post.url }}">
       <img src="{{ post.image }}" />
-      <h2>{{ post.title }}</h2>
     </a>  
   </li>
   {% endfor %}
