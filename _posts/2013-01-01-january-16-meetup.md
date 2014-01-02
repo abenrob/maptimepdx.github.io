@@ -12,7 +12,7 @@ lng: -122.6775
 minZoom: 12
 ---
 
-**What**: maptimePDX, a meetup for hacking on map stuff.
+**What**: A meetup for hacking on map stuff.
 
 **Where**: [Esri R&D Center](http://calagator.org/venues/202393267)
 
