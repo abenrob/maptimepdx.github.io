@@ -1,6 +1,6 @@
 body {
   font: 16px/1.5 helvetica-neue, helvetica, arial, san-serif, verdana;
-  background: #F2EEE5;
+  background-image: url('/images/gplaypattern.png');
   color: #333;
   padding: 0;
   margin: 0;
@@ -80,7 +80,7 @@ ul.entries li {
   position: relative;
   margin: 20px auto;
   padding: 20px;
-  background: #F7F7F7;
+  background: #ffffff;
   width: 600px;
 }
 a, ul.entries img {
@@ -146,7 +146,7 @@ img {
 }
 .polaroid {
   padding: 10px 10px 12px 10px;
-  background: #F7F7F7;
+  background: #ffffff;
   box-shadow: 0px 2px 4px #ddd;
   margin-bottom: 20px;
 }
