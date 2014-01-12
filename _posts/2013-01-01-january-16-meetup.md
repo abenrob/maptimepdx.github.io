@@ -5,7 +5,7 @@ date: Dec 29, 2013
 twitter: geografa
 realname: rafa
 image: http://distilleryimage2.ak.instagram.com/4f3ae99e717e11e39ea71230a3416982_8.jpg
-map: grafa.gm7oh1b2
+map: grafa.sk54gqfr
 zoomLevel: 15
 lat: 45.5169
 lng: -122.6775
