@@ -23,3 +23,55 @@ minZoom: 12
 The agenda is up to you but there are a couple of fun tasks that some of you can help out with if you're up for learning some new things. I'd like to throw out two things I'd like to share and potentially hack on: [this Jekyll site](https://github.com/geografa/maptimepdx/tree/gh-pages) and the [OSM Bright Quickstart](https://www.mapbox.com/tilemill/docs/guides/osm-bright-mac-quickstart/).
 
 So bring your ideas and an appetite to learn and contribute. Some bevvies and snacks provided. See you then!
+
+## What we talked about
+
+### Introductions
+
+@edrex apologizes for mispelling and/or missing most names, projects etc.
+
+```
+Rafa:
+Styling 
+
+Ryan Callahan
+  p: Clean slate right now
+  GIS stuff
+
+Lewis _stein
+  Local android Developer
+  Geolocation, stats and data analysis
+  Manny, Esri Portland
+  Blank slate
+
+Katie Yuri, bracket, rbracket
+  Gis, Pedestrian activism
+  Data Questions to map
+  Potentially projects
+
+Melie Urban Airship OSM Building import
+Tania (no voice tonight) FOSS4G
+Ocean / coastal GIS
+Leaflet, lots of points, simplification probs
+
+Travis Klein, temp portland, couch surfing on way to Bay area to work at huge tech comp
+
+Ian Meridian
+no side now, but proto nacent analytics d3 crossfilter, suggest what analytics are
+
+Ryan Esri iOS (android too I guess), interested in Geo (of course), interested in what other ppl are deving
+
+Kenichi dev lead geotrigger platform
+ruby js objc. Like open source geo. Open to projects
+
+Adam. Social Dev (seattle) JS frontend web w/geo components, some python. Interested in D3, looking for ways to use it. Current leaflet
+
+Matt Sayler  co-coordinating. No super active proj now, 1 or two I should pick up.
+Plug: FOSS4G Int'l Conf
+
+Jeff Meyers Student at
+
+Breyley Oxley
+working with FFox OS 
+App openlayers OSM. Oops, had map uside down
+```
