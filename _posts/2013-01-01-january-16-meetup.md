@@ -1,6 +1,6 @@
 ---
 layout: basic-map-entry
-title: january maptime!
+title: January Maptime!
 date: Dec 29, 2013
 twitter: geografa
 realname: Rafa Gutierrez
@@ -27,7 +27,7 @@ So bring your ideas and an appetite to learn and contribute. Some bevvies and sn
 ### Intros and things we're working on
 Matt and I kicked off the new year with a super casual Maptime event. Nothing flashy, just intros of new folks interested in all the geo/dev stuff happening in Portland at the moment. Esri R&D were gracious enough to host the meetup and we settled in the space comfortably. We're still feeling out the audience so we're all ears in what you're up for getting into. Lightening talks, hack sessions, mentor-matching...it's up to you. Next event will have at least a brief intro talk and break out with respective interest groups.
 
-### who showed up
+### Who showed up
 
 *@edrex apologizes for mispelling and/or missing most names, projects etc.*
 
@@ -58,10 +58,12 @@ Matt and I kicked off the new year with a super casual Maptime event. Nothing fl
 - Jeff Meyers Student at PSU
 - Brylie Oxley working with FFox OS App openlayers OSM
 
-### what we did
+Not present: [@lyzidiamond](https://twitter.com/lyzidiamond) :(
+
+### What we did
 - @edrex, @mattsayler, and I worked on getting the maptimepdx.org website up and running as standalone entity(organization) on Github. Note - it can be a helluvalot easier by just transferring. Others worked on Leaflet...@edrex presented on CouchDB and PouchDB, and there were other iOS and Android discussions as well.
 
-### next actions
+### Next actions
 Next meeting, there are a few things up for discussion:
 
 - check in with Esri 2 weeks prior to Feb 5 meeting for space
@@ -69,3 +71,4 @@ Next meeting, there are a few things up for discussion:
 - set up Flickr or Instagram account for Maptime static images
 - run through github workflows with folks who want to contribute
 - setup default templates for posts
+- get everyone on github!
