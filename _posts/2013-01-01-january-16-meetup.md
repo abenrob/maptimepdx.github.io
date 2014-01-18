@@ -52,7 +52,7 @@ Matt and I kicked off the new year with a super casual Maptime event. Nothing fl
 - Ryan Esri iOS (android too I guess), interested in Geo (of course), interested in what other ppl are deving
 - Kenichi dev lead geotrigger platform
 	ruby js objc. Like open source geo. Open to projects
-- Adam. Social Dev (seattle) JS frontend web w/geo components, some python. Interested in D3, looking for ways to use it. Current leaflet
+- Adam @abenroberts. SpatialDev (seattle) JS frontend web w/geo components, some python. Interested in D3, looking for ways to use it. Current leaflet.
 - Matt Sayler  co-coordinating. No super active proj now, 1 or two I should pick up.
 	Plug: FOSS4G Int'l Conf	
 - Jeff Meyers Student at PSU
