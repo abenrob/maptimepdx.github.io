@@ -72,3 +72,6 @@ Next meeting, there are a few things up for discussion:
 - run through github workflows with folks who want to contribute
 - setup default templates for posts
 - get everyone on github!
+
+### Contribute
+Want to contribute to this doc? Make a correction? Get on Github, [fork this repo](https://github.com/maptimepdx/maptimepdx.github.io), and make a pull request.
